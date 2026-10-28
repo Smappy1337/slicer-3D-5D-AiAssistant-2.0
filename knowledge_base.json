@@ -1,0 +1,549 @@
+{
+  "user_rules": [],
+  "cases": [
+    {
+      "lesson": "Для силовых шестерен под высокий крутящий момент применяется композит Fiberpart PC G20, 100% заполнение, 6 стенок для жесткости зуба, слой 0.1 мм и укладка плоским торцом на стол (3D режим без поддержек).",
+      "part_type": "Шестерня прямозубая / зубчатое колесо",
+      "settings": {
+        "layer_height": "0.1",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "fiberpart_pc_g20",
+      "keywords": [
+        "шестерн",
+        "зубчат",
+        "gear",
+        "момент",
+        "редуктор",
+        "эвольвент"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Для износостойких конвейерных колес и роликов выбирается эластомер Enduse TPU D70, 6 стенок обода, 80% заполнения для упругого демпфирования ударов и слой 0.12 мм для точности посадочного отверстия.",
+      "part_type": "Колесо конвейера / демпферный ролик",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "80",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "колес",
+        "ролик",
+        "конвейер",
+        "демпфер",
+        "wheel",
+        "трени"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Для гофрированных пыльников ШРУСа и оболочек с углами сгиба до 42° оптимальна 5D-печать без поддержек из эластичного маслобензостойкого TPU D70 со 100% заполнением для полной герметичности.",
+      "part_type": "Пыльник ШРУСа / гофра / криволинейный патрубок",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "гофр",
+        "шрус",
+        "патрубок",
+        "купол",
+        "5d",
+        "герметич",
+        "изгиб"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 3D, Материал fiberpart_pc_g20, Слой 0.1 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "fiberpart_pc_g20",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 3D, Материал generic_pla, Слой 0.1 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "generic_pla",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 3D, Материал generic_pla, Слой 0.1 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "generic_pla",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 3D, Материал fiberpart_pc_g20, Слой 0.1 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "fiberpart_pc_g20",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 3D, Материал generic_pla, Слой 0.15 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "true"
+      },
+      "material_id": "generic_pla",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_pla, Слой 0.12 мм",
+      "part_type": "1793022695683_Шестерня",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "generic_pla",
+      "keywords": [
+        "шестерня"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 3D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793024434435_Декоративная фигурка",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "adhesion_type": "brim",
+        "support_enable": "true"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "декоративная",
+        "фигурка"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 3D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793024434435_Декоративная фигурка",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "adhesion_type": "brim",
+        "support_enable": "true"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "декоративная",
+        "фигурка"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025307319_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025307319_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 3D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025441901_Колесо",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "80",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "колесо"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025518593_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 3D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025640562_Рабочее_колесо насоса Wilo IPL 80140-42. 2063106",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "80",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "рабочее",
+        "колесо",
+        "насоса",
+        "wilo"
+      ],
+      "mode": "3D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793025721635_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793025721635_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793025768508_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793025768508_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793025768508_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025874115_Ось вращения передающих звёзд",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "вращения",
+        "передающих",
+        "звёзд"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793025874115_Ось вращения передающих звёзд",
+      "settings": {
+        "layer_height": "0.12",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "вращения",
+        "передающих",
+        "звёзд"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793026153521_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "part_type": "1793026153521_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793026237979_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793026237979_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "lesson": "Режим 5D, Материал generic_petg, Слой 0.15 мм",
+      "part_type": "1793026237979_Крыльчатка охлаждения электродвигателя",
+      "settings": {
+        "layer_height": "0.15",
+        "infill_sparse_density": "60",
+        "wall_line_count": "4",
+        "support_enable": "false"
+      },
+      "material_id": "generic_petg",
+      "keywords": [
+        "крыльчатка",
+        "охлаждения",
+        "электродвигателя"
+      ],
+      "mode": "5D"
+    },
+    {
+      "keywords": [
+        "шестерня"
+      ],
+      "part_type": "1793027279083_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "speed_print": "50",
+        "wall_line_count": "6",
+        "infill_sparse_density": "100",
+        "support_enable": "false"
+      },
+      "material_id": "fiberpart_pc_g20",
+      "lesson": "Режим 3D, Материал fiberpart_pc_g20, Слой 0.1 мм",
+      "mode": "3D"
+    },
+    {
+      "keywords": [
+        "пыльник",
+        "шруса"
+      ],
+      "part_type": "1793027411871_Пыльник шруса",
+      "settings": {
+        "layer_height": "0.12",
+        "infill_sparse_density": "100",
+        "adhesion_type": "brim",
+        "speed_print": "40",
+        "wall_line_count": "6",
+        "support_enable": "false"
+      },
+      "material_id": "enduse_tpu_d70",
+      "lesson": "Режим 5D, Материал enduse_tpu_d70, Слой 0.12 мм",
+      "mode": "5D"
+    },
+    {
+      "keywords": [
+        "шестерня"
+      ],
+      "part_type": "1793037179509_Шестерня",
+      "settings": {
+        "layer_height": "0.1",
+        "infill_sparse_density": "100",
+        "wall_line_count": "6",
+        "speed_print": "50",
+        "support_enable": "false"
+      },
+      "material_id": "fiberpart_pc_g20",
+      "lesson": "Режим 5D, Материал fiberpart_pc_g20, Слой 0.1 мм",
+      "mode": "5D"
+    }
+  ]
+}

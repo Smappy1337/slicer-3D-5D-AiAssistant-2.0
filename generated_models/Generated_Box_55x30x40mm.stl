@@ -1,0 +1,86 @@
+solid AISolid
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex -27.5000 -15.0000 0.0000
+      vertex -27.5000 15.0000 0.0000
+      vertex 27.5000 15.0000 0.0000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex -27.5000 -15.0000 0.0000
+      vertex 27.5000 15.0000 0.0000
+      vertex 27.5000 -15.0000 0.0000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex -27.5000 -15.0000 40.0000
+      vertex 27.5000 -15.0000 40.0000
+      vertex 27.5000 15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex -27.5000 -15.0000 40.0000
+      vertex 27.5000 15.0000 40.0000
+      vertex -27.5000 15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex -27.5000 -15.0000 0.0000
+      vertex 27.5000 -15.0000 0.0000
+      vertex 27.5000 -15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex -27.5000 -15.0000 0.0000
+      vertex 27.5000 -15.0000 40.0000
+      vertex -27.5000 -15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 27.5000 -15.0000 0.0000
+      vertex 27.5000 15.0000 0.0000
+      vertex 27.5000 15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 27.5000 -15.0000 0.0000
+      vertex 27.5000 15.0000 40.0000
+      vertex 27.5000 -15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 27.5000 15.0000 0.0000
+      vertex -27.5000 15.0000 0.0000
+      vertex -27.5000 15.0000 40.0000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 -0.0000
+    outer loop
+      vertex 27.5000 15.0000 0.0000
+      vertex -27.5000 15.0000 40.0000
+      vertex 27.5000 15.0000 40.0000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex -27.5000 15.0000 0.0000
+      vertex -27.5000 -15.0000 0.0000
+      vertex -27.5000 -15.0000 40.0000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex -27.5000 15.0000 0.0000
+      vertex -27.5000 -15.0000 40.0000
+      vertex -27.5000 15.0000 40.0000
+    endloop
+  endfacet
+endsolid AISolid
